@@ -21,8 +21,7 @@ import butterknife.ButterKnife;
 import butterknife.InjectView;
 import butterknife.OnClick;
 
-import com.rosalinesrandoms.colorSelector.R;
-
+import com.example.diane.testingcolorselectorlibrary.R;
 
 public class TestActivity extends ActionBarActivity {
 
